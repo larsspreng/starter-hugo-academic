@@ -7,9 +7,9 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 90
+weight: 30
 
-title: Recent Publications
+title: Publications
 subtitle: ''
 
 content:
@@ -35,7 +35,5 @@ design:
   view: citation
   columns: '2'
 ---
-
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
+A List of my published papers. Where possible, I attach the code and dataset to replicate the results. Code is usually written in Python, Matlab or Julia.
+<!---  Quickly discover relevant content by [filtering publications](./publication/). --->

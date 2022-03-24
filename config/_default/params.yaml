@@ -9,7 +9,7 @@ appearance:
   theme_day: minimal
   theme_night: minimal
   font: minimal
-  font_size: L
+  font_size: M
 
 # SEO
 
@@ -41,7 +41,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Lars Spreng. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -76,6 +76,13 @@ features:
   avatar:
     gravatar: false
     shape: circle
+  publications:
+    date_format: January 2006
+    citation_style: apa
+  projects:
+    post_view: 2
+    publication_view: 2
+    talk_view: 2
   comment:
     provider: ''
     disqus:

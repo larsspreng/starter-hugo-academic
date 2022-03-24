@@ -14,7 +14,7 @@ organizations:
   url: https://www.bayes.city.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I develoop and apply new techniques to model and forecasty exchange rates.
+bio: Quantitative Finance, Econometrics, Statistics.
 
 # Interests to show in About widget
 interests:
@@ -46,15 +46,15 @@ social:
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
-#- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-#  icon_pack: fas
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: fas
+  link: https://www.bayes.city.ac.uk/faculties-and-research/students/lars-spreng
 - icon: github
   icon_pack: fab
   link: https://github.com/larsspreng
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/lars-e-spreng-a6b217149/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -71,6 +71,6 @@ email: ""
 highlight_name: true
 ---
 
-I am a PhD Candidate in Finance at Bayes Business School (formerly Cass Business School). I develop and apply new techniques to model and forcast financial time series. I am also working on statistical tests to assess the accuracy of different forecasts. 
+I am a PhD Candidate in Finance at Bayes Business School (formerly Cass Business School). My research focuses on theoretical and applied econometrics, particularly high-dimensional factor models, forecasting, and high-frequency econometrics. I have worked extensively with large datasets, dimensionality reduction methods, linear and non-linear filtering techniques, as well as various other time-series methods. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/file/d/1rKBJS5trB6B43H7HnY-F_DqXpCvvgstD/view?usp=sharing" "newtab" >}}CV{{< /staticref >}}.
