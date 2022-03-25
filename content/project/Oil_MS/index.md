@@ -27,27 +27,7 @@ abstract:
 
 
 # Summary. An optional shortened abstract.
-summary: "This paper provides analysis of the macroeconomic management implications of becoming
-an exporter of oil, taking the case of Ghana and applying to Uganda as a prospective
-exporter. The paper proceeds in two steps. First, we construct a Dynamic Stochastic
-General Equilibrium (DSGE) model of a primary commodity exporting developing
-country calibrated to Ghana and Uganda and simulate the impulse response to shocks to
-the oil price and oil production. Second, using parameters from the DSGE model to obtain
-priors for parameter values, we use a Structural Vector Autoregressive (SVAR) with
-monthly data over 2001 to 2019 to estimate the response to oil shocks as an importer for
-both countries and as an exporter for Ghana after 2010. The DSGE results suggest that
-although an oil price shock generates appreciation and initially output falls, there are
-reductions in interest rates and inflation and ultimately output increases. The larger the oil
-sector the greater the appreciation and inflationary effects, but output rises more quickly
-and there are larger increases in wages and taxes. The SVAR results for Ghana when
-exporting suggest an initial depreciation in response to an oil price shock, with a reduction
-in inflation, but the immediate negative output response slowly turns positive (and becomes
-consistent with the DSGE). When Ghana and Uganda are importers, oil price shocks
-generate appreciation, mild inflation and interest rate reductions, so although output
-declines initially it rises after a year and this persists. The analysis suggests that the adoption
-of inflation targeting, in conjunction with an improved monitoring of macroeconomic
-developments, has mitigated the effects of oil price shocks on domestic variables in Ghana
-and Uganda."
+summary: 
 
 #  caption: Photo by rawpixel on Unsplash
 #  focal_point: Smart
@@ -73,3 +53,25 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+This paper provides analysis of the macroeconomic management implications of becoming
+an exporter of oil, taking the case of Ghana and applying to Uganda as a prospective
+exporter. The paper proceeds in two steps. First, we construct a Dynamic Stochastic
+General Equilibrium (DSGE) model of a primary commodity exporting developing
+country calibrated to Ghana and Uganda and simulate the impulse response to shocks to
+the oil price and oil production. Second, using parameters from the DSGE model to obtain
+priors for parameter values, we use a Structural Vector Autoregressive (SVAR) with
+monthly data over 2001 to 2019 to estimate the response to oil shocks as an importer for
+both countries and as an exporter for Ghana after 2010. The DSGE results suggest that
+although an oil price shock generates appreciation and initially output falls, there are
+reductions in interest rates and inflation and ultimately output increases. The larger the oil
+sector the greater the appreciation and inflationary effects, but output rises more quickly
+and there are larger increases in wages and taxes. The SVAR results for Ghana when
+exporting suggest an initial depreciation in response to an oil price shock, with a reduction
+in inflation, but the immediate negative output response slowly turns positive (and becomes
+consistent with the DSGE). When Ghana and Uganda are importers, oil price shocks
+generate appreciation, mild inflation and interest rate reductions, so although output
+declines initially it rises after a year and this persists. The analysis suggests that the adoption
+of inflation targeting, in conjunction with an improved monitoring of macroeconomic
+developments, has mitigated the effects of oil price shocks on domestic variables in Ghana
+and Uganda.

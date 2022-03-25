@@ -17,21 +17,20 @@ authors:
 
 date: "2019-12-01T00:00:00Z"
 
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ["3"]
+
 # Publication name and optional abbreviated publication name.
 publication: CREATES Working Paper
 publication_short:
 
-abstract: "We examine the relationship between exchange rates and macroeconomic fundamentals using a
-two-step maximum likelihood estimator through which we compute time-varying factor loadings.
-Factors are obtained as principal components, extracted from a large macro-dataset. Using 14
-currencies over 1995–2018, we show that the loadings on the factors vary considerably over time
-with frequent sign changes. Allowing for time-varying loadings increases the percentage of explained
-variation in exchanges rates by an order of magnitude. Accounting for instabilities improves the
-predictive ability of the model globally and locally during crises, and yields better forecast of sign
-changes in exchange rates."
+abstract: We examine the relationship between exchange rates and macroeconomic fundamentals using a two-step maximum likelihood estimator through which we compute time-varying factor loadings. Factors are obtained as principal components, extracted from a large macro-dataset. Using 14 currencies over 1995–2018, we show that the loadings on the factors vary considerably over time with frequent sign changes. Allowing for time-varying loadings increases the percentage of explained variation in exchanges rates by an order of magnitude. Accounting for instabilities improves the predictive ability of the model globally and locally during crises, and yields better forecast of sign changes in exchange rates.
 
 # Summary. An optional shortened abstract.
-#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: We examine the relationship between exchange rates and macroeconomic fundamentals using a two-step maximum likelihood estimator through which we compute time-varying factor loadings. Factors are obtained as principal components, extracted from a large macro-dataset. Using 14 currencies over 1995–2018, we show that the loadings on the factors vary considerably over time with frequent sign changes. Allowing for time-varying loadings increases the percentage of explained variation in exchanges rates by an order of magnitude. Accounting for instabilities improves the predictive ability of the model globally and locally during crises, and yields better forecast of sign changes in exchange rates.
 
 tags: 
 - Exchange Rates
@@ -62,3 +61,4 @@ url_video: ''
 slides: ""
 ---
 
+We examine the relationship between exchange rates and macroeconomic fundamentals using a two-step maximum likelihood estimator through which we compute time-varying factor loadings. Factors are obtained as principal components, extracted from a large macro-dataset. Using 14 currencies over 1995–2018, we show that the loadings on the factors vary considerably over time with frequent sign changes. Allowing for time-varying loadings increases the percentage of explained variation in exchanges rates by an order of magnitude. Accounting for instabilities improves the predictive ability of the model globally and locally during crises, and yields better forecast of sign changes in exchange rates.
