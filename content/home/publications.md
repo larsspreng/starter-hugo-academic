@@ -5,6 +5,7 @@ widget: pages
 
 # This file represents a page section.
 headless: true
+active: true
 
 # Order that this section appears on the page.
 weight: 30
@@ -16,7 +17,7 @@ content:
   # Filter on criteria
   filters:
     folders:
-      - publication
+      - papers
     tag: ''
     category: ''
     publication_type: ''

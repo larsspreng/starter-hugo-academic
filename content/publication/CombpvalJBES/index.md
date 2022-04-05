@@ -1,11 +1,15 @@
 ---
-title: "test"
+title: "Combining p-Values for Multivariate Predictive Ability Testing"
 
+tags: 
+- Forecasting
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
+- Giovanni Urga
+
 # Author notes (optional)
 #author_notes:
 #- "Equal contribution"
@@ -30,12 +34,7 @@ publication_short: JBES
 abstract:
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags: []
-
-# Display this page in the Featured widget?
-featured: false
+summary: 
 
 # Custom links (uncomment lines below)
 # links:
@@ -51,20 +50,6 @@ url_slides: ''
 url_source: ''
 url_video: ''
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 
-  focal_point: ""
-  preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects: []
-
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
@@ -72,3 +57,7 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+
+
+In this paper, we propose an intersection-union test for multivariate forecast
+accuracy based on the combination of a sequence of univariate tests. The testing framework evaluates a global null hypothesis of equal predictive ability using any number of univariate forecast accuracy tests under arbitrary dependence structures, without specifying the underlying multivariate distribution. An extensive Monte-Carlo simulation exercise shows that our proposed test has very good size and power properties under several relevant scenarios, and performs well in both low- and high-dimensional settings. We illustrate the empirical validity of our testing procedure using a large dataset of 84 daily exchange rates running from 1 January 2011 to 1 April 2021. We show that our proposed test addresses inconclusive results that often arise in practice.
