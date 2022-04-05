@@ -11,11 +11,11 @@ main:
   #  url: '#talks'
   #  weight: 40
   - name: Publications
-    url: '#publication'
+    url: '/publication/'
     weight: 20
   - name: Work in Progress
     url: '/project/'
-    weight: 20
+    weight: 30
   - name: Blog
     url: '/post/'
     weight: 40
