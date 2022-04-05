@@ -17,7 +17,7 @@ content:
   # Filter on criteria
   filters:
     folders:
-      - papers
+      - publication
     tag: ''
     category: ''
     publication_type: ''
@@ -36,5 +36,5 @@ design:
   view: citation
   columns: '2'
 ---
-A List of my published papers. Where possible, I attach the code and dataset to replicate the results. Code is usually written in Python, Matlab or Julia.
+A List of my published papers. Where possible, I attach the code and dataset to replicate the results.
 <!---  Quickly discover relevant content by [filtering publications](./publication/). --->
