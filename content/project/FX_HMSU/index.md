@@ -40,7 +40,7 @@ tags:
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
+links:
 - name: Data Description
   url: files/FX_HMSU_2022_Data_summary.pdf
 
