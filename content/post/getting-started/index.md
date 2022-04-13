@@ -1,9 +1,9 @@
 ---
-title: First Blog Post
-subtitle: Test post
+title: Nothing here yet
+subtitle: 
 
 # Summary for listings and search engines
-summary: test post summary
+summary: 
 # Link this post with a project
 projects: []
 
@@ -21,11 +21,11 @@ featured: false
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
-  focal_point: ""
-  placement: 2
-  preview_only: false
+#image:
+#  caption: ''
+#  focal_point: ""
+#  placement: 2
+#  preview_only: false
 
 authors:
 - admin
