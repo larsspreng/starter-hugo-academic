@@ -41,8 +41,8 @@ featured: false
 
 # Custom links (uncomment lines below)
 # links:
-# - name: Custom Link
-#   url: http://example.org
+- name: Data Description
+  url: FX_HMSU_2022_Data_summary.pdf
 
 url_pdf: 'https://pure.au.dk/portal/files/205905457/rp20_19.pdf'
 url_code: ''
