@@ -43,7 +43,8 @@ featured: false
 links:
 - name: Data Description
   url: files/FX_HMSU_2022_Data_summary.pdf
-
+- name: Animation
+  url: img/MacroCorrVid.avi
 url_pdf: 'https://pure.au.dk/portal/files/205905457/rp20_19.pdf'
 url_code: ''
 url_dataset: ''
