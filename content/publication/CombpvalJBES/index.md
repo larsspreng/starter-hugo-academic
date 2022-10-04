@@ -39,11 +39,14 @@ featured: false
 
 # Custom links (uncomment lines below)
 # links:
-# - name: Custom Link
-#   url: http://example.org
+- name: SSRN
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4075867#
+- name: DOI
+  url: https://doi.org/10.1080/07350015.2022.2067545
+ 
 
 url_pdf: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4075867#'
-url_code: ''
+url_code: 'https://ndownloader.figstatic.com/files/34842771'
 url_dataset: ''
 url_poster: ''
 url_project: ''
