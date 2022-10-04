@@ -16,9 +16,9 @@ main:
   - name: Work in Progress
     url: '/project/'
     weight: 30
-  - name: Blog
-    url: '/post/'
-    weight: 40
+  #- name: Blog
+  #  url: '/post/'
+  #  weight: 40
   #- name: Contact
   #  url: '#contact'
   #  weight: 50

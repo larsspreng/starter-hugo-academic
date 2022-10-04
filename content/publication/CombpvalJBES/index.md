@@ -39,14 +39,12 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
- - name: SSRN
-   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4075867#
  - name: DOI
    url: https://doi.org/10.1080/07350015.2022.2067545
  
 
 url_pdf: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4075867#'
-url_code: 'https://ndownloader.figstatic.com/files/34842771'
+url_code: 'https://ndownloader.figstatic.com/articles/19615164/versions/1'
 url_dataset: ''
 url_poster: ''
 url_project: ''
