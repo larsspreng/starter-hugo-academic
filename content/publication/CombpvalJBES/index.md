@@ -39,10 +39,10 @@ featured: false
 
 # Custom links (uncomment lines below)
 # links:
-- name: SSRN
-  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4075867#
-- name: DOI
-  url: https://doi.org/10.1080/07350015.2022.2067545
+  - name: SSRN
+    url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4075867#
+  - name: DOI
+    url: https://doi.org/10.1080/07350015.2022.2067545
  
 
 url_pdf: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4075867#'
