@@ -44,7 +44,7 @@ links:
  
 
 url_pdf: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4075867#'
-url_code: 'https://ndownloader.figstatic.com/articles/19615164/versions/1'
+url_code: 'https://github.com/larsspreng/SU_JBES'
 url_dataset: ''
 url_poster: ''
 url_project: ''

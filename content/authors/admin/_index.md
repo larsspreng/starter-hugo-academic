@@ -18,8 +18,9 @@ bio: Quantitative Finance, Econometrics, Statistics.
 
 # Interests to show in About widget
 interests:
+- Quantitative Finance
 - Time Series Econometrics
-- Financial Econometrics
+- Forecasting
 - Statistics
 
 # Education to show in About widget
