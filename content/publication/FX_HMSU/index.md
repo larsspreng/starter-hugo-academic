@@ -15,11 +15,11 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2022-04-04T00:00:00Z"
+date: "2023-01-01T00:00:00Z"
 doi: ""
 
 # Publication name and optional abbreviated publication name.
-publication: Journal of Applied Econometrics
+publication: Journal of Applied Econometrics, forthcoming
 publication_short: 
 
 # Publication type.

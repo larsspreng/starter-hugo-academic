@@ -17,7 +17,7 @@ date: "2022-04-04T00:00:00Z"
 doi: ""
 
 # Publication name and optional abbreviated publication name.
-publication: Journal of Business and Economic Statistics
+publication: Journal of Business and Economic Statistics, forthcoming
 publication_short: 
 
 # Publication type.
