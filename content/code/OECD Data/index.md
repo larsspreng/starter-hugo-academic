@@ -3,7 +3,7 @@ title: OECD Data
 subtitle: A real-time macroeconomic database for 14 countries
 
 # Summary for listings and search engines
-summary: For our [paper](https://larsspreng.github.io/publication/fx_hmsu/) in the Journal of Applied Econometrics, we collated a new real-time database for 14 countries. At the time of writing the paper, the datbase consisted of 272 vinatage datasets, each starting
+summary: The new real-time database used in our [paper](https://larsspreng.github.io/publication/fx_hmsu/) in the Journal of Applied Econometrics.
 # Link this post with a project
 projects: []
 
