@@ -16,7 +16,7 @@ authors:
 #- "Equal contribution"
 
 date: "2023-01-01T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1002/jae.2984"
 
 # Publication name and optional abbreviated publication name.
 publication: Journal of Applied Econometrics, forthcoming
@@ -42,13 +42,12 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-#  - name: DOI
-#    url: https://doi.org/10.1080/07350015.2022.2067545
- 
+#   - name: DOI
+    # url: https://doi.org/10.1002/jae.2984
 
-url_pdf: ''
-url_code: 'https://github.com/larsspreng/FX_HMSU'
-url_dataset: ''
+url_pdf: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4075867'
+url_code: 'https://journaldata.zbw.eu/dataset/exchange-rates-and-macroeconomic-fundamentals'
+url_dataset: 'https://github.com/larsspreng/OECD_Data'
 url_poster: ''
 url_project: ''
 url_slides: ''

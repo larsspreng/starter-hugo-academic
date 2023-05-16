@@ -6,7 +6,7 @@ title: Lars Spreng
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate in Finance
+role: Bayes Fellow in Finance
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -72,6 +72,6 @@ email: ""
 highlight_name: true
 ---
 
-I am a PhD Candidate in Finance at Bayes Business School, University of London. My research focuses on theoretical and applied econometrics, particularly high-dimensional factor models, forecasting, and high-frequency econometrics. I have worked extensively with large datasets, dimensionality reduction methods, linear and non-linear filtering techniques, as well as various other time-series methods. 
+I am a Bayes Fellow in Finance at Bayes Business School, University of London. My research focuses on theoretical and applied econometrics, particularly high-dimensional factor models, forecasting, and high-frequency econometrics. I have worked extensively with large datasets, dimensionality reduction methods, linear and non-linear filtering techniques, as well as various other time-series methods. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/file/d/1rKBJS5trB6B43H7HnY-F_DqXpCvvgstD/view?usp=sharing" "newtab" >}}CV{{< /staticref >}}.
