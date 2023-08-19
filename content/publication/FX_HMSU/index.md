@@ -19,7 +19,7 @@ date: "2023-01-01T00:00:00Z"
 doi: "https://doi.org/10.1002/jae.2984"
 
 # Publication name and optional abbreviated publication name.
-publication: Journal of Applied Econometrics, forthcoming
+publication: "***Journal of Applied Econometrics***, forthcoming"
 publication_short: 
 
 # Publication type.

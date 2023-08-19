@@ -49,7 +49,7 @@ social:
 #  link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://www.bayes.city.ac.uk/faculties-and-research/students/lars-spreng
+  link: https://scholar.google.com/citations?user=avPy01EAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/larsspreng
@@ -72,6 +72,6 @@ email: ""
 highlight_name: true
 ---
 
-I am a Bayes Fellow in Finance at Bayes Business School, University of London. My research focuses on theoretical and applied econometrics, particularly high-dimensional factor models, forecasting, and high-frequency econometrics. I have worked extensively with large datasets, dimensionality reduction methods, linear and non-linear filtering techniques, as well as various other time-series methods. 
+I am a Bayes Fellow in Finance at Bayes Business School, University of London. My research focuses on theoretical and applied econometrics, particularly high-dimensional factor models, forecasting, and high-frequency econometrics. I have worked extensively with large datasets, dimensionality reduction methods, linear and non-linear filtering techniques, as well as various other time-series methods. My research has been published in leading journals such as the _Journal of Business and Economic Statistics_ and the _Journal of Applied Econometrics_.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/file/d/1rKBJS5trB6B43H7HnY-F_DqXpCvvgstD/view?usp=sharing" "newtab" >}}CV{{< /staticref >}}.
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/file/d/1rKBJS5trB6B43H7HnY-F_DqXpCvvgstD/view?usp=sharing" "newtab" >}}CV{{< /staticref >}}. -->

@@ -13,11 +13,11 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2022-04-04T00:00:00Z"
+date: "2023-04-04T00:00:00Z"
 doi: "https://doi.org/10.1080/07350015.2022.2067545"
 
 # Publication name and optional abbreviated publication name.
-publication: Journal of Business and Economic Statistics, forthcoming
+publication: "***Journal of Business & Economic Statistics***, 41(3), 765-777"
 publication_short: 
 
 # Publication type.
@@ -37,7 +37,7 @@ abstract: In this paper, we propose an intersection-union test for multivariate 
 # Display this page in the Featured widget?
 featured: false
 
-# Custom links (uncomment lines below)
+Custom links (uncomment lines below)
 links:
 #  - name: DOI
   #  url: https://doi.org/10.1080/07350015.2022.2067545
