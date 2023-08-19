@@ -37,11 +37,10 @@ abstract: In this paper, we propose an intersection-union test for multivariate 
 # Display this page in the Featured widget?
 featured: false
 
-Custom links (uncomment lines below)
+# Custom links (uncomment lines below)
 links:
 #  - name: DOI
   #  url: https://doi.org/10.1080/07350015.2022.2067545
-
 url_pdf: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4075867#'
 url_code: 'https://github.com/larsspreng/SU_JBES'
 url_dataset: ''
